@@ -1,0 +1,6 @@
+Hello Manasdeep! 
+I am your friend sending you an code !
+        String name="Manas";
+        Integer a = 47464766;
+        int code= a.hashCode();
+        System.out.println(code);
