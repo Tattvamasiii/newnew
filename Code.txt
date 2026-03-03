@@ -1,0 +1,5 @@
+Public Class{
+  Public Static Void main(String [] args){
+         System.out.println("Hello I am here to learn code");
+   }
+}
